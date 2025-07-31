@@ -83,7 +83,7 @@
 <details>
 <summary>🟢 <b>Low Severity</b></summary>
 
-### Blacklist (non_inclusive / inclusivity) 🟢
+### Blacklist (non_inclusive / inclusivity) 🟢 +
 
 - **Value:** `blacklist`
 - **Languages:** bash, python, docker, terraform, node
